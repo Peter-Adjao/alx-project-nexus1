@@ -1,0 +1,8 @@
+
+[build]
+  base = "topshop"
+  command = "npm run build"
+  publish = "topshop/.next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

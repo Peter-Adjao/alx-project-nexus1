@@ -83,7 +83,7 @@ const ChartStyle = ({ id, config }: { id: string; config: ChartConfig }) => {
         .join("\n")}\n}\n`;
     })
     .join("\n");
-c:\Users\user\Desktop\NewE-Com
+
   return <style dangerouslySetInnerHTML={{ __html: css }} />;
 };
 

@@ -1,6 +1,6 @@
 
 [build]
-  base = "topshop"
+  base = "tabletop"
   command = "npm run build"
   publish = "tabletop/.next"
 
